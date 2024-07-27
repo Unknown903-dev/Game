@@ -2,11 +2,7 @@
 #include <limits>
 #include "func.h"
 #include "menu.h"
-//deleted app file on accident possible file found
-// git show 907712560f90ae889e155fe9cb8b4aa92f80ab2a
-// git show c8d61a9f41177e635ebf0d1097ba430c2619fde0
-//There are 4 files of code
-// main.cpp menu.h func.h test.cpp
+
 int main(int argc, char* argv[]) {
     system("clear");
     std::string option;
